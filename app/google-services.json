@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "225435845499",
+    "project_id": "mael-448bd",
+    "storage_bucket": "mael-448bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225435845499:android:72f9b31c492a611dbef3de",
+        "android_client_info": {
+          "package_name": "com.triodel.mael"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225435845499-2mr1a1gmfi1lncdaofvs96q30t6pk5l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.triodel.mael",
+            "certificate_hash": "e7699bba593de144c359d58afca74107309f02d1"
+          }
+        },
+        {
+          "client_id": "225435845499-uqj44batl8ho4de3ea3913hrdil8jnuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd6HJxjVZ8g1xdWLpBs0_8h3mgD2qPzhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225435845499-uqj44batl8ho4de3ea3913hrdil8jnuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
